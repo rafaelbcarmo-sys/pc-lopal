@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/rafaelbcarmo-sys/pc-lopal/issues"
   },
-  "homepage": "https://github.com/rafaelbcarmo-sys/pc-lopal#readme"
+  "homepage": "https://github.com/rafaelbcarmo-sys/pc-lopal#readme",
+  "devDependencies": {
+    "chalk": "^4.1.2"
+  },
+  "dependencies": {
+    "validator": "^13.15.35"
+  }
 }
